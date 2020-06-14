@@ -1,5 +1,6 @@
 class car():
     lunzi = 4
+    deng = 2
     driver = 1
     def run(self):
         print("test")
